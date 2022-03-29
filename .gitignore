@@ -1,0 +1,8 @@
+# Visual Studio
+.vs/
+.vscode/
+bin/
+obj/
+
+# Jetbrains
+.idea/
