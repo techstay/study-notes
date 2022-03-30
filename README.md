@@ -1,4 +1,7 @@
 # 我的学习笔记仓库
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## 学习笔记
 
@@ -29,3 +32,23 @@
 gitmoji 是一个提交规范，借由 emoji 表情让 git 提交变得轻松活泼，同时也规定了可以使用的表情防止滥用，不过个人项目嘛，emoji 会使用的更加自由一些。如果你使用 vscode 的话，也可以安装 [gitmoji 扩展](https://marketplace.visualstudio.com/items?itemName=seatonjiang.gitmoji-vscode)，在 git 提交的时候查找和插入表情。
 
 - [😏gitmoji 规范](https://gitmoji.dev)
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="http://techstay.life"><img src="https://avatars.githubusercontent.com/u/7893448?v=4?s=100" width="100px;" alt=""/><br /><sub><b>techstay</b></sub></a><br /><a href="#example-techstay" title="Examples">💡</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
